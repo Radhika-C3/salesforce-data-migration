@@ -1,11 +1,12 @@
-Name,Industry,Phone,Website,BillingStreet,BillingCity,BillingState,BillingCountry
-Infosys Technologies Ltd,Technology,212-555-1001,https://www.infosys.com,"2400 North Glenville Drive, Richardson",,,
-Tata Consultancy Services,Technology,212-555-1002,https://www.tcs.com,"101 Park Avenue, New York, NY 10178",,,
-Wipro Solutions Inc,Technology,408-555-1003,https://www.wipro.com,"1300 Crittenden Lane, Mountain View, CA 94043",,,
-HCL Technologies Corp,Technology,201-555-1004,https://www.hcltech.com,"330 Passaic Avenue, Fairfield, NJ 07004",,,
-Accenture Solutions LLC,Consulting,312-555-1005,https://www.accenture.com,"161 N Clark Street, Chicago, IL 60601",,,
-Cognizant Technology Solutions,Technology,201-555-1006,https://www.cognizant.com,"300 Frank W. Burr Blvd, Teaneck, NJ 07666",,,
-Tech Mahindra America Inc,Technology,972-555-1007,https://www.techmahindra.com,"5425 Legacy Drive Suite 100, Plano, TX 75024",,,
-Deloitte Consulting Group,Consulting,202-555-1008,https://www.deloitte.com,"555 12th Street NW, Washington, DC 20004",,,
-Persistent Systems Inc,Technology,408-555-1009,https://www.persistent.com,"2055 Laurelwood Road Suite 200, Santa Clara, CA 95054",,,
-Mphasis Corporation,Technology,510-555-1010,https://www.mphasis.com,"460 Seaport Court Suite 102, Redwood City, CA 94063",,,
+Name,Industry,Phone
+Infosys Technologies Ltd,Technology,212-555-1001
+Tata Consultancy Services,Technology,212-555-1002
+Wipro Solutions Inc,Technology,408-555-1003
+HCL Technologies Corp,Technology,201-555-1004
+Accenture Solutions LLC,Consulting,312-555-1005
+Cognizant Technology Solutions,Technology,201-555-1006
+Tech Mahindra America Inc,Technology,972-555-1007
+Deloitte Consulting Group,Consulting,202-555-1008
+Persistent Systems Inc,Technology,408-555-1009
+Mphasis Corporation,Technology,510-555-1010
+Praxiom Services,Technology,

@@ -1,0 +1,1 @@
+michael.davis@mphasis.com,001fj00001InQgEAAV  data upsert bulk --sobject Contact --file update-contacts.csv --external-id Email --target-org Migrateorg --line-ending LF --wait 10
